@@ -1,6 +1,6 @@
 # D1-Mini-Case
 
-I really liked the look of the D1 Mini cases D3nce designed, I just found them a little too delicate for my needs.  I had originally planned to just take the original designs and make the walls a little thicker, but things took on a life of their own.
+I really liked the look of the D1 Mini cases D3nce designed over on thingiverse.  I just found them a little too delicate for my needs.  I had originally planned to just take the original designs and make the walls a little thicker, but things took on a life of their own.
 
 The main system is split into 3 parts, base separator and top, then there are a couple of supporting files for mounting the system.  All files are on Tinker Cad and are public if you want to add more sensors or remix anything.
 
