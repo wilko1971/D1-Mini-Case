@@ -21,6 +21,8 @@ https://www.amazon.co.uk/s?k=m2+nylon+mounting+posts&crid=1WEKSLORD6K8X&sprefix=
 # Top
 I’ve two main versions of the top Standard, and Short.  Short is pretty much what it says and is a shorter version of the standard top.  I prefer the short versions as the system can become long when the standard top is attached.
 
+Update 2022-03-28: I've added a new two part top that snaps together and hides the screws, giving a cleaner look. This came about from experimenting with the rotary encoder, trying to make a neat looking lid that spins.
+
 # Stands
 Both stands simply allow the system to be viewed on its side and have been made to support LCD screens.
 
@@ -61,3 +63,9 @@ This has both a separator and top.
 https://www.amazon.co.uk/gp/product/B07RKVL1DW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 This has a separator and top and setting it up is quite awkward.  The SIM800L requires a 2amp power source.  As the D1 mini can’t provide this much power through its pins, you will need to use the DC input base, and split the power to both the D1 Mini and the SIM800L.  Attaching the antenna is the most awkward part of the process.  You will need to tuck most of the antenna wire under the SIM800L and carefully line up the top so the notch with the antenna base.  I also recommend having the antenna attached as you do this, as it will be needed later and gives better purchase.  Once the top is in place, pull on the antenna gently, this should force nut on the back to lock against the side and you can then tighten the outside bolt.  Once the antenna is in place line up the fixing holes with the base and screw it together.
+
+## Rotary Encoder
+https://www.amazon.co.uk/DIFCUL-Degree-Encoder-Development-Arduino/dp/B09P52R8VD
+
+This is another awkward sensor, when purchased the pins point outwards and they need to point down to fit in the case. You can unsolder the original header and replace it with a new one but there's another problem. There are no solder points at the top of the PCB so you need to solder the header in reverse and remove the plastic spacer to make it all fit. Once this is done it's pretty simple to screw everything together.
+
